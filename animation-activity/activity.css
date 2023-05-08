@@ -28,16 +28,16 @@ nav {
 }
 
 @keyframes top {
-  from {}
+  from {transform: }
   to {}
 }
 
 @keyframes middle {
-  from {}
+  from {transform: ;}
   to {}
 }
 
 @keyframes bottom {
-  from {}
+  from {transform: ;}
   to {}
 }
